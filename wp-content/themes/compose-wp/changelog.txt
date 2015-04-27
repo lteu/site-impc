@@ -1,0 +1,63 @@
+11:05 PM 4/6/2015
+
+v1.1.2
+
+- Minor CSS bug fixes
+
+
+==================
+
+
+10:35 AM 4/5/2015
+
+v1.1 + v1.1.1
+
+- Added new Home Carousel page template
+
+
+==================
+
+
+11:53 AM 2/5/2015
+
+v1.0.4
+
+- Updated documentation
+
+
+==================
+
+
+11:53 AM 2/5/2015
+
+v1.0.3
+
+- Minor fixes
+
+
+==================
+
+
+12:54 PM 2/1/2015
+
+v1.0.2
+
+- Implemented WordPress.org required fixes
+
+
+==================
+
+
+5:00 PM 12/29/2014
+
+v1.0.1
+
+- Customizer.php bug fix
+
+
+==================
+
+
+4:59 PM 12/28/2014
+
+v1.0 Released
